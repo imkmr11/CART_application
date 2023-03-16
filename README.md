@@ -1,5 +1,5 @@
 # R_CART-Application
-This Project is called Relics_Cart where we can order the items and it can store information of user and can deleiver it. This Project is Made in Intellij Software, by using 'JAVAFX', 'MYSQL','FXML' and 'JAVA'.
+This Project is called Relics_Cart where we can order the items and it can store information of the user and can deliver it. This Project is Made in Intellij Software, by using 'JAVAFX', 'MYSQL','FXML' and 'JAVA'.
 where we can register as new user if we are not new and can login with our details. In ProductsPage we can Orders the Products and can view our Orders in OrderPage.
 
 
